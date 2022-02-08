@@ -1,0 +1,11 @@
+###### Requirements without Version Specified ######`
+PyQt5
+pyowm
+qtawesome
+qt-material
+geocoder
+requests
+pytz
+yelpapi
+matplotlib
+pillow
